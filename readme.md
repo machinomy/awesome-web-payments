@@ -8,6 +8,8 @@
 
 - [Apple Pay JS](https://developer.apple.com/reference/applepayjs/) - Kind of Web Payments API by Apple
 
+- [W3C Verifiable Claims Task Force](http://w3c.github.io/vctf/) - The Verifiable Claims Task Force W3C Working Group.
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
