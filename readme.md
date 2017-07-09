@@ -2,13 +2,18 @@
 
 > Curated list of specifications and projects for Web Payments.
 
+## Web Payments
+
 - [Payment Request API](https://www.w3.org/TR/payment-request/) - In-browser Web Payments API
 - [Web Payments HTTP API](https://www.w3.org/TR/webpayments-http-api/) - Web Payments API over HTTP
 - [Web Payments HTTP Messages](https://www.w3.org/TR/webpayments-http-messages/) - Messages for Web Payments API over HTTP
 
 - [Apple Pay JS](https://developer.apple.com/reference/applepayjs/) - Kind of Web Payments API by Apple
 
+## Identity
+
 - [W3C Verifiable Claims Task Force](http://w3c.github.io/vctf/) - The Verifiable Claims Task Force W3C Working Group.
+- [Internet Identity Workshop](http://idcommons.net/Main_Page) - Regular workshops meeeting notes.
 
 ## License
 
